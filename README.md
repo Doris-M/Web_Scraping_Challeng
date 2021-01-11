@@ -1,8 +1,13 @@
 # web-scraping-challenge
 
+
+## Screenshots of my final application.
+
+### https://github.com/Doris-M/Web_Scraping_Challeng/blob/main/Image1.jpg?raw=true
+### https://github.com/Doris-M/Web_Scraping_Challeng/blob/main/Image2.jpg?raw=true
+
+
 # Web Scraping Homework - Mission to Mars 
-
-
 # Step 1 - Scraping
 Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
@@ -70,8 +75,4 @@ Create a root route / that will query your Mongo database and pass the mars data
 
 Create a template HTML file called index.html that will take the mars data dictionary and display all of the data in the appropriate HTML elements. Use the following as a guide for what the final product should look like, but feel free to create your own design.
 
-# Screenshots of my final application.
-
-### https://github.com/Doris-M/Web_Scraping_Challeng/blob/main/Image1.jpg?raw=true
-### https://github.com/Doris-M/Web_Scraping_Challeng/blob/main/Image2.jpg?raw=true
     
